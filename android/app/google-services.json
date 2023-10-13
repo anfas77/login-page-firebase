@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138844034526",
+    "project_id": "firbaseamble",
+    "storage_bucket": "firbaseamble.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138844034526:android:a2c14425c4e3cee0aab94f",
+        "android_client_info": {
+          "package_name": "com.example.login_page2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXWaceeExjTrQDVxltSZifCWotogz96tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
